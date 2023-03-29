@@ -136,9 +136,7 @@ li a:hover {
   position: absolute;
   top: 230px;
   z-index: 99;
-  width: 50%;
-  left: 25%;
-  right: 25%;
+  width: 90%;
   padding: 30px;
   text-align: center;
 }
