@@ -156,7 +156,7 @@ li a:hover {
   }
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 330px) {
   .CTA {
    font-size: 7px;
    width: 110%;
