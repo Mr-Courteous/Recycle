@@ -184,7 +184,14 @@ li a:hover {
     padding-top: 100px;
   }
 } */
-.CTA-p,.CTA-h2:hover{
+.CTA-p:hover{
+  transition: all ease 2s;
+  box-shadow: 7px 7px 15px 22px rgb(0, 0, 0, 0.25);
+  color:white;
+  padding-top: -2%;
+}
+
+.CTA-h2{
   transition: all ease 2s;
   box-shadow: 7px 7px 15px 22px rgb(0, 0, 0, 0.25);
   color:white;
