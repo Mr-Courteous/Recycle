@@ -191,7 +191,7 @@ li a:hover {
   padding-top: -2%;
 }
 
-.CTA-h2{
+.CTA-h2:hover{
   transition: all ease 2s;
   box-shadow: 7px 7px 15px 22px rgb(0, 0, 0, 0.25);
   color:white;
